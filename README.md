@@ -9,7 +9,7 @@ This project is built using **HTML, CSS and vanilla Javascript**. The aim of thi
 
 
 ## Screenshot
-![Screenshot of the Photobooth.](/images/screenshot1.png "Screenshot of the Photobooth")
+![Screenshot of the Photobooth.](/images/screenshot.png "Screenshot of the Photobooth")
 
 ## Link 
 The live project can be found here: https://mcilhaggis.github.io/photobooth/.
@@ -26,6 +26,7 @@ Twitter: @breadlikerach
 * Exploring motion sensored add-ons
 * Allowing for download of images
 * Create "Gallary" of images taken
+* Usage extended to mobile
 
     
 ## Questions
