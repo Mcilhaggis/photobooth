@@ -3,13 +3,16 @@ h1{
     font-family: 'Heebo', sans-serif;
     color: red;
     font-size: 4em!important;
+    background-color: white;
 
 }
 
 h2{
     font-family: 'Heebo', sans-serif;
     color: red;
-    font-size: 3em!important;   
+    font-size: 3em!important;  
+    background-color: white;
+ 
 }
 
 body{
@@ -33,7 +36,6 @@ body{
     border: 10px black solid;
 
 }
-
 
 .photo{
     margin-top: 20px;
